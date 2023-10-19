@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.2.1](https://github.com/google/gts/compare/v5.2.0...v5.2.1) (2023-10-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v8.51.0 ([#812](https://github.com/google/gts/issues/812)) ([ae913c1](https://github.com/google/gts/commit/ae913c17ae4460d0f76aad16b96cb3e1f23a5b89))
+
 ## [5.2.0](https://github.com/google/gts/compare/v5.1.1...v5.2.0) (2023-10-04)
 
 
